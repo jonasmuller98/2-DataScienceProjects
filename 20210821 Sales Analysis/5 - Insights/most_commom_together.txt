@@ -1,0 +1,313 @@
+('iPhone', 'Lightning Charging Cable') 1135
+('Google Phone', 'USB-C Charging Cable') 1129
+('iPhone', 'Wired Headphones') 540
+('Google Phone', 'Wired Headphones') 535
+('iPhone', 'Apple Airpods Headphones') 439
+('Vareebadd Phone', 'USB-C Charging Cable') 412
+('USB-C Charging Cable', 'Wired Headphones') 292
+('Google Phone', 'Bose SoundSport Headphones') 283
+('Vareebadd Phone', 'Wired Headphones') 184
+('Lightning Charging Cable', 'Wired Headphones') 161
+('USB-C Charging Cable', 'Bose SoundSport Headphones') 134
+('Lightning Charging Cable', 'Apple Airpods Headphones') 133
+('Vareebadd Phone', 'Bose SoundSport Headphones') 102
+('Apple Airpods Headphones', 'Wired Headphones') 101
+('Bose SoundSport Headphones', 'Wired Headphones') 87
+('Lightning Charging Cable', 'USB-C Charging Cable') 62
+('Lightning Charging Cable', 'AA Batteries (4-pack)') 59
+('Lightning Charging Cable', 'Lightning Charging Cable') 57
+('Apple Airpods Headphones', 'AAA Batteries (4-pack)') 51
+('USB-C Charging Cable', 'USB-C Charging Cable') 51
+('AA Batteries (4-pack)', 'Lightning Charging Cable') 51
+('Wired Headphones', 'USB-C Charging Cable') 50
+('AAA Batteries (4-pack)', 'USB-C Charging Cable') 50
+('USB-C Charging Cable', 'AAA Batteries (4-pack)') 48
+('AA Batteries (4-pack)', 'AAA Batteries (4-pack)') 48
+('AAA Batteries (4-pack)', 'AAA Batteries (4-pack)') 48
+('Wired Headphones', 'AA Batteries (4-pack)') 44
+('AA Batteries (4-pack)', 'Wired Headphones') 44
+('AAA Batteries (4-pack)', 'Lightning Charging Cable') 44
+('USB-C Charging Cable', 'Lightning Charging Cable') 43
+('AAA Batteries (4-pack)', 'Wired Headphones') 43
+('Wired Headphones', 'AAA Batteries (4-pack)') 43
+('USB-C Charging Cable', 'AA Batteries (4-pack)') 42
+('AA Batteries (4-pack)', 'Apple Airpods Headphones') 41
+('AAA Batteries (4-pack)', 'AA Batteries (4-pack)') 39
+('Lightning Charging Cable', 'Bose SoundSport Headphones') 39
+('Wired Headphones', 'Lightning Charging Cable') 38
+('USB-C Charging Cable', 'Apple Airpods Headphones') 38
+('Bose SoundSport Headphones', 'AAA Batteries (4-pack)') 37
+('Lightning Charging Cable', 'AAA Batteries (4-pack)') 37
+('AA Batteries (4-pack)', 'USB-C Charging Cable') 37
+('Wired Headphones', 'Wired Headphones') 37
+('Apple Airpods Headphones', 'Lightning Charging Cable') 35
+('AA Batteries (4-pack)', 'AA Batteries (4-pack)') 35
+('Wired Headphones', 'Apple Airpods Headphones') 34
+('USB-C Charging Cable', '27in FHD Monitor') 34
+('Bose SoundSport Headphones', 'Lightning Charging Cable') 34
+('Apple Airpods Headphones', 'Bose SoundSport Headphones') 33
+('AAA Batteries (4-pack)', 'Apple Airpods Headphones') 33
+('Apple Airpods Headphones', 'USB-C Charging Cable') 29
+('Apple Airpods Headphones', 'AA Batteries (4-pack)') 29
+('AA Batteries (4-pack)', 'Bose SoundSport Headphones') 28
+('Bose SoundSport Headphones', 'Bose SoundSport Headphones') 27
+('Bose SoundSport Headphones', 'AA Batteries (4-pack)') 27
+('Bose SoundSport Headphones', 'USB-C Charging Cable') 25
+('Apple Airpods Headphones', 'Apple Airpods Headphones') 24
+('AAA Batteries (4-pack)', '27in FHD Monitor') 22
+('iPhone', 'AAA Batteries (4-pack)') 21
+('27in FHD Monitor', 'AAA Batteries (4-pack)') 21
+('Wired Headphones', 'Bose SoundSport Headphones') 21
+('Lightning Charging Cable', 'Google Phone') 20
+('AAA Batteries (4-pack)', 'Bose SoundSport Headphones') 20
+('Google Phone', 'AA Batteries (4-pack)') 19
+('Lightning Charging Cable', '27in 4K Gaming Monitor') 19
+('iPhone', 'USB-C Charging Cable') 19
+('34in Ultrawide Monitor', 'AA Batteries (4-pack)') 19
+('Wired Headphones', '27in 4K Gaming Monitor') 19
+('Bose SoundSport Headphones', 'Apple Airpods Headphones') 19
+('Wired Headphones', 'iPhone') 18
+('AA Batteries (4-pack)', 'iPhone') 18
+('27in FHD Monitor', 'Lightning Charging Cable') 18
+('Lightning Charging Cable', '27in FHD Monitor') 18
+('34in Ultrawide Monitor', 'Lightning Charging Cable') 18
+('iPhone', 'AA Batteries (4-pack)') 18
+('Apple Airpods Headphones', 'Google Phone') 17
+('USB-C Charging Cable', 'iPhone') 17
+('Wired Headphones', '34in Ultrawide Monitor') 17
+('ThinkPad Laptop', 'AAA Batteries (4-pack)') 16
+('27in 4K Gaming Monitor', 'Lightning Charging Cable') 16
+('Lightning Charging Cable', '34in Ultrawide Monitor') 16
+('34in Ultrawide Monitor', 'USB-C Charging Cable') 15
+('27in FHD Monitor', 'AA Batteries (4-pack)') 15
+('AAA Batteries (4-pack)', '27in 4K Gaming Monitor') 15
+('Bose SoundSport Headphones', '27in FHD Monitor') 15
+('20in Monitor', 'USB-C Charging Cable') 15
+('Lightning Charging Cable', '20in Monitor') 15
+('27in 4K Gaming Monitor', 'AAA Batteries (4-pack)') 15
+('Google Phone', 'Lightning Charging Cable') 14
+('AA Batteries (4-pack)', '27in 4K Gaming Monitor') 14
+('Google Phone', 'AAA Batteries (4-pack)') 14
+('AAA Batteries (4-pack)', 'iPhone') 14
+('Wired Headphones', '27in FHD Monitor') 14
+('Wired Headphones', 'Macbook Pro Laptop') 14
+('AA Batteries (4-pack)', 'Flatscreen TV') 13
+('AA Batteries (4-pack)', '34in Ultrawide Monitor') 13
+('Bose SoundSport Headphones', '34in Ultrawide Monitor') 13
+('USB-C Charging Cable', '34in Ultrawide Monitor') 13
+('AAA Batteries (4-pack)', '34in Ultrawide Monitor') 13
+('Apple Airpods Headphones', 'iPhone') 13
+('Lightning Charging Cable', 'Flatscreen TV') 13
+('Apple Airpods Headphones', '27in 4K Gaming Monitor') 12
+('Wired Headphones', 'Google Phone') 12
+('Apple Airpods Headphones', '27in FHD Monitor') 12
+('27in FHD Monitor', 'Bose SoundSport Headphones') 12
+('27in FHD Monitor', 'USB-C Charging Cable') 12
+('Apple Airpods Headphones', 'Macbook Pro Laptop') 12
+('27in 4K Gaming Monitor', 'USB-C Charging Cable') 12
+('Macbook Pro Laptop', 'USB-C Charging Cable') 12
+('20in Monitor', 'Wired Headphones') 12
+('27in FHD Monitor', 'Apple Airpods Headphones') 12
+('USB-C Charging Cable', 'Google Phone') 12
+('27in 4K Gaming Monitor', 'AA Batteries (4-pack)') 12
+('34in Ultrawide Monitor', 'AAA Batteries (4-pack)') 12
+('AAA Batteries (4-pack)', 'Google Phone') 11
+('AAA Batteries (4-pack)', 'Macbook Pro Laptop') 11
+('USB-C Charging Cable', '27in 4K Gaming Monitor') 11
+('USB-C Charging Cable', 'ThinkPad Laptop') 11
+('34in Ultrawide Monitor', 'Wired Headphones') 11
+('20in Monitor', 'Lightning Charging Cable') 11
+('AA Batteries (4-pack)', '27in FHD Monitor') 11
+('Google Phone', '27in FHD Monitor') 11
+('ThinkPad Laptop', 'Lightning Charging Cable') 11
+('Macbook Pro Laptop', 'Lightning Charging Cable') 11
+('AA Batteries (4-pack)', 'Google Phone') 11
+('Lightning Charging Cable', 'iPhone') 11
+('AAA Batteries (4-pack)', 'ThinkPad Laptop') 11
+('Bose SoundSport Headphones', 'Flatscreen TV') 11
+('Macbook Pro Laptop', 'Bose SoundSport Headphones') 11
+('27in 4K Gaming Monitor', 'Wired Headphones') 11
+('Flatscreen TV', 'AAA Batteries (4-pack)') 11
+('Google Phone', 'Apple Airpods Headphones') 11
+('Flatscreen TV', 'Lightning Charging Cable') 10
+('Wired Headphones', 'ThinkPad Laptop') 10
+('USB-C Charging Cable', '20in Monitor') 10
+('27in 4K Gaming Monitor', 'Apple Airpods Headphones') 10
+('USB-C Charging Cable', 'Flatscreen TV') 10
+('27in FHD Monitor', 'Wired Headphones') 10
+('AA Batteries (4-pack)', '20in Monitor') 10
+('AAA Batteries (4-pack)', 'Flatscreen TV') 10
+('Lightning Charging Cable', 'Macbook Pro Laptop') 10
+('Bose SoundSport Headphones', '27in 4K Gaming Monitor') 10
+('Apple Airpods Headphones', 'ThinkPad Laptop') 9
+('27in 4K Gaming Monitor', 'Bose SoundSport Headphones') 9
+('20in Monitor', 'Bose SoundSport Headphones') 9
+('Macbook Pro Laptop', 'AA Batteries (4-pack)') 9
+('ThinkPad Laptop', 'USB-C Charging Cable') 9
+('ThinkPad Laptop', 'Bose SoundSport Headphones') 9
+('Vareebadd Phone', 'AA Batteries (4-pack)') 9
+('USB-C Charging Cable', 'Macbook Pro Laptop') 9
+('27in FHD Monitor', '27in FHD Monitor') 9
+('AA Batteries (4-pack)', 'ThinkPad Laptop') 9
+('Lightning Charging Cable', 'ThinkPad Laptop') 9
+('AA Batteries (4-pack)', 'Macbook Pro Laptop') 8
+('Flatscreen TV', 'AA Batteries (4-pack)') 8
+('Vareebadd Phone', 'Apple Airpods Headphones') 8
+('USB-C Charging Cable', 'Vareebadd Phone') 8
+('Apple Airpods Headphones', 'Flatscreen TV') 8
+('ThinkPad Laptop', 'AA Batteries (4-pack)') 8
+('AAA Batteries (4-pack)', '20in Monitor') 8
+('34in Ultrawide Monitor', 'Apple Airpods Headphones') 8
+('Google Phone', 'iPhone') 8
+('Bose SoundSport Headphones', 'Google Phone') 8
+('iPhone', '27in 4K Gaming Monitor') 7
+('20in Monitor', 'Apple Airpods Headphones') 7
+('Macbook Pro Laptop', 'Apple Airpods Headphones') 7
+('Wired Headphones', 'Flatscreen TV') 7
+('iPhone', '34in Ultrawide Monitor') 7
+('Wired Headphones', '20in Monitor') 7
+('Macbook Pro Laptop', 'Wired Headphones') 7
+('Macbook Pro Laptop', 'AAA Batteries (4-pack)') 7
+('34in Ultrawide Monitor', 'iPhone') 7
+('34in Ultrawide Monitor', '34in Ultrawide Monitor') 7
+('Flatscreen TV', 'USB-C Charging Cable') 7
+('Bose SoundSport Headphones', 'iPhone') 7
+('ThinkPad Laptop', 'Apple Airpods Headphones') 7
+('iPhone', 'Flatscreen TV') 7
+('Macbook Pro Laptop', '27in 4K Gaming Monitor') 7
+('iPhone', 'Google Phone') 7
+('Flatscreen TV', 'Flatscreen TV') 6
+('Apple Airpods Headphones', '34in Ultrawide Monitor') 6
+('iPhone', 'Bose SoundSport Headphones') 6
+('27in 4K Gaming Monitor', '34in Ultrawide Monitor') 6
+('27in 4K Gaming Monitor', 'Macbook Pro Laptop') 6
+('Bose SoundSport Headphones', '20in Monitor') 6
+('Apple Airpods Headphones', '20in Monitor') 6
+('Apple Airpods Headphones', 'Vareebadd Phone') 6
+('Wired Headphones', 'Vareebadd Phone') 6
+('34in Ultrawide Monitor', 'Bose SoundSport Headphones') 6
+('27in FHD Monitor', 'Macbook Pro Laptop') 6
+('20in Monitor', 'AA Batteries (4-pack)') 6
+('iPhone', 'Vareebadd Phone') 5
+('27in 4K Gaming Monitor', '27in 4K Gaming Monitor') 5
+('Vareebadd Phone', 'iPhone') 5
+('Flatscreen TV', '34in Ultrawide Monitor') 5
+('27in 4K Gaming Monitor', 'Google Phone') 5
+('Google Phone', '34in Ultrawide Monitor') 5
+('27in FHD Monitor', '34in Ultrawide Monitor') 5
+('Flatscreen TV', 'Apple Airpods Headphones') 5
+('34in Ultrawide Monitor', '27in FHD Monitor') 5
+('Macbook Pro Laptop', '34in Ultrawide Monitor') 4
+('Lightning Charging Cable', 'Vareebadd Phone') 4
+('Bose SoundSport Headphones', 'ThinkPad Laptop') 4
+('20in Monitor', 'Macbook Pro Laptop') 4
+('Vareebadd Phone', '34in Ultrawide Monitor') 4
+('Flatscreen TV', 'Wired Headphones') 4
+('Flatscreen TV', '27in FHD Monitor') 4
+('LG Dryer', 'AA Batteries (4-pack)') 4
+('Flatscreen TV', 'Macbook Pro Laptop') 4
+('Vareebadd Phone', 'Flatscreen TV') 4
+('27in FHD Monitor', '27in 4K Gaming Monitor') 4
+('ThinkPad Laptop', 'Flatscreen TV') 4
+('Flatscreen TV', 'iPhone') 4
+('27in 4K Gaming Monitor', 'ThinkPad Laptop') 4
+('Vareebadd Phone', 'Google Phone') 4
+('Macbook Pro Laptop', 'Google Phone') 4
+('27in 4K Gaming Monitor', '27in FHD Monitor') 4
+('Lightning Charging Cable', 'LG Washing Machine') 4
+('27in FHD Monitor', 'ThinkPad Laptop') 4
+('ThinkPad Laptop', 'Wired Headphones') 4
+('iPhone', 'ThinkPad Laptop') 4
+('Bose SoundSport Headphones', 'Macbook Pro Laptop') 4
+('Google Phone', 'Macbook Pro Laptop') 4
+('AAA Batteries (4-pack)', 'Vareebadd Phone') 4
+('LG Washing Machine', 'AAA Batteries (4-pack)') 4
+('Macbook Pro Laptop', 'ThinkPad Laptop') 3
+('ThinkPad Laptop', 'Google Phone') 3
+('34in Ultrawide Monitor', 'Macbook Pro Laptop') 3
+('Google Phone', 'ThinkPad Laptop') 3
+('20in Monitor', '20in Monitor') 3
+('ThinkPad Laptop', 'iPhone') 3
+('34in Ultrawide Monitor', 'Flatscreen TV') 3
+('Macbook Pro Laptop', 'Macbook Pro Laptop') 3
+('34in Ultrawide Monitor', 'ThinkPad Laptop') 3
+('Macbook Pro Laptop', 'iPhone') 3
+('Wired Headphones', 'LG Washing Machine') 3
+('Macbook Pro Laptop', '27in FHD Monitor') 3
+('iPhone', 'iPhone') 3
+('Flatscreen TV', 'Bose SoundSport Headphones') 3
+('AA Batteries (4-pack)', 'Vareebadd Phone') 3
+('27in FHD Monitor', '20in Monitor') 3
+('Vareebadd Phone', '27in 4K Gaming Monitor') 3
+('27in 4K Gaming Monitor', 'iPhone') 3
+('Google Phone', 'Google Phone') 3
+('Flatscreen TV', 'Google Phone') 3
+('27in 4K Gaming Monitor', 'Flatscreen TV') 3
+('Apple Airpods Headphones', 'LG Dryer') 3
+('20in Monitor', 'AAA Batteries (4-pack)') 3
+('iPhone', 'Macbook Pro Laptop') 3
+('34in Ultrawide Monitor', 'Google Phone') 2
+('Macbook Pro Laptop', '20in Monitor') 2
+('Lightning Charging Cable', 'LG Dryer') 2
+('Flatscreen TV', '27in 4K Gaming Monitor') 2
+('ThinkPad Laptop', 'Macbook Pro Laptop') 2
+('Google Phone', 'Vareebadd Phone') 2
+('Macbook Pro Laptop', 'LG Washing Machine') 2
+('20in Monitor', '27in FHD Monitor') 2
+('ThinkPad Laptop', 'ThinkPad Laptop') 2
+('Bose SoundSport Headphones', 'Vareebadd Phone') 2
+('Vareebadd Phone', 'ThinkPad Laptop') 2
+('20in Monitor', 'ThinkPad Laptop') 2
+('27in FHD Monitor', 'LG Dryer') 2
+('27in 4K Gaming Monitor', '20in Monitor') 2
+('LG Washing Machine', 'Lightning Charging Cable') 2
+('LG Washing Machine', 'Bose SoundSport Headphones') 2
+('AA Batteries (4-pack)', 'LG Dryer') 2
+('Vareebadd Phone', 'AAA Batteries (4-pack)') 2
+('iPhone', '20in Monitor') 2
+('20in Monitor', 'Google Phone') 2
+('Flatscreen TV', 'ThinkPad Laptop') 2
+('ThinkPad Laptop', '27in FHD Monitor') 2
+('27in FHD Monitor', 'Flatscreen TV') 2
+('Google Phone', '20in Monitor') 2
+('27in 4K Gaming Monitor', 'Vareebadd Phone') 1
+('27in FHD Monitor', 'iPhone') 1
+('Vareebadd Phone', 'Lightning Charging Cable') 1
+('20in Monitor', 'iPhone') 1
+('LG Dryer', 'Vareebadd Phone') 1
+('Macbook Pro Laptop', 'Flatscreen TV') 1
+('ThinkPad Laptop', 'Vareebadd Phone') 1
+('Google Phone', 'Flatscreen TV') 1
+('LG Washing Machine', 'Google Phone') 1
+('LG Washing Machine', 'Wired Headphones') 1
+('LG Dryer', 'Flatscreen TV') 1
+('27in FHD Monitor', 'LG Washing Machine') 1
+('LG Dryer', '27in FHD Monitor') 1
+('20in Monitor', '34in Ultrawide Monitor') 1
+('34in Ultrawide Monitor', '20in Monitor') 1
+('34in Ultrawide Monitor', 'LG Washing Machine') 1
+('Google Phone', '27in 4K Gaming Monitor') 1
+('LG Washing Machine', 'iPhone') 1
+('LG Dryer', 'Wired Headphones') 1
+('27in FHD Monitor', 'Vareebadd Phone') 1
+('LG Washing Machine', '27in 4K Gaming Monitor') 1
+('LG Washing Machine', 'Apple Airpods Headphones') 1
+('27in 4K Gaming Monitor', 'LG Dryer') 1
+('20in Monitor', 'LG Washing Machine') 1
+('LG Dryer', 'Google Phone') 1
+('Vareebadd Phone', '27in FHD Monitor') 1
+('ThinkPad Laptop', '27in 4K Gaming Monitor') 1
+('20in Monitor', 'Flatscreen TV') 1
+('USB-C Charging Cable', 'LG Dryer') 1
+('LG Washing Machine', '20in Monitor') 1
+('Flatscreen TV', '20in Monitor') 1
+('27in FHD Monitor', 'Google Phone') 1
+('iPhone', '27in FHD Monitor') 1
+('LG Dryer', 'AAA Batteries (4-pack)') 1
+('ThinkPad Laptop', '34in Ultrawide Monitor') 1
+('iPhone', 'LG Washing Machine') 1
+('AAA Batteries (4-pack)', 'LG Dryer') 1
+('LG Dryer', '27in 4K Gaming Monitor') 1
+('LG Dryer', 'Lightning Charging Cable') 1
+('ThinkPad Laptop', 'LG Dryer') 1
+('LG Washing Machine', 'AA Batteries (4-pack)') 1
