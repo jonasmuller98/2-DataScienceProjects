@@ -5,7 +5,7 @@ Em suma, este repositório consiste de um banco de dados a respeito da venda de 
     
     #### Sumário:
     1. Arquivos originais
-	    1.1 Contém arquivos do dataset, referente a cada mês 			 de operação do negócio.
+	    1.1 Contém arquivos do dataset, referente a cada mês de operação do negócio.
     2. Dados preparados
 	    2.1 DataPreparation.ipynb
 	    2.2 dataset.csv
